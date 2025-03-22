@@ -2,9 +2,9 @@
 title: "News item"
 description: "About new item"
 author: "News"
-date: "2024-06-24"
+date: "2025-03-22"
 categories: [news]
-image: "/files/images/placeholder1.jpg"
+image: "/files/images/p1.JPG"
 #css: /custom.css
 #draft: true
 ---
@@ -12,7 +12,11 @@ image: "/files/images/placeholder1.jpg"
 
 ## Summary
 
-About the news
+
+<img src="/files/images/p1.JPG" width=100%>
+
+This section is currently under construction.
+I'm in the process of updating this part of my website. Please check back soon for more information about my research, projects, and academic journey. Thank you for your patience!
 
 <!--Include social share buttons-->
 

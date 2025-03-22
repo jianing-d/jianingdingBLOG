@@ -1,13 +1,13 @@
 
-    - path: https://www.nsf.gov/ 
-      image: https://new.nsf.gov/themes/custom/nsf_theme/components/sdc-components/molecules/logo/logo-desktop.svg
-      title: "Exploring "
-      author: Academic Website
-      subtitle: "Funder"
-      description: "The goal of this project is to investigate ."
+    - path:  
+      image: files\images\waste management.jpg
+      title: "宁波市智慧垃圾分类项目"
+      author: Chao Zhang
+      subtitle: "World Bank"
+      description: "宁波市智慧垃圾分类管理平台数据分析监测评价咨询服务"
       started: "2024"
-      ended: "2025"
-      funding: "$0"
+      ended: "2027"
+      funding: ""
 #      date: "2022-10-26"
 #      categories: [] 
 

@@ -1,9 +1,9 @@
 
-    - path: https://drganghe.github.io/quarto-academic-site-examples.html
-      image: "/files/images/placeholder4.JPG"
-      title: "Quarto Academic Website Examples and Tips"
-      author: "Dr. Gang He"
-      description: "Examples and tips for Quarto Academic Website"
-      date: "2024-10-15"
+    - path: https://github.com/jianing-d/SECFC
+      image: "/files/images/logo.png"
+      title: "SECFC"
+      author: "Jianing Ding"
+      description: "A Transparent, Open-Source R Package for Survey-Embedded Carbon Footprint Calculation in Environmental Psychology"
+      date: "2025-03-21"
       categories: [news] 
 

@@ -2,14 +2,18 @@
 title: "Event item"
 description: "About Event item."
 author: "Event"
-date: "2024-09-03"
+date: "2025-03-22"
 categories: [event, presentation]
-image: "/files/images/placeholder2.JPG"
+image: "/files/images/p3.JPG"
 #css: /custom.css
 #draft: true
 ---
 
-[![](/files/images/placeholder2.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+
+<img src="/files/images/p3.JPG" width=100%>
+
+This section is currently under construction.
+I'm in the process of updating this part of my website. Please check back soon for more information about my research, projects, and academic journey. Thank you for your patience!
 
 
 <!--Include social share buttons-->

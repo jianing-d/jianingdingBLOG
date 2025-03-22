@@ -1,1 +1,1 @@
-Sitemap: https://drganghe.github.io/quarto-academic-website-template/sitemap.xml
+Sitemap: https://jianing-ding.netlify.app/sitemap.xml

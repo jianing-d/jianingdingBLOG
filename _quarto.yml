@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Jianing Ding's personal website"
+author-meta: "Jianing Ding"
 
 website:
-  title: "Quarto Academic"
-  image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  title: "Jianing Ding"
+  image: "files/profiles/2024-06-03 204008.JPG"
+  description: "Jianing Ding's personal website"
  
   navbar:
     background: light
@@ -17,59 +17,31 @@ website:
     left:
 #      - text: Home
 #        href: index.qmd
-      - text: About
-        menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
-      - text: Research
-        menu:
-          - text: List of Publication
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
-      - text: Teaching
-        href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group
-        href: people.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Experiences
+        href: projects.qmd                                
+      - text: Posts
+        href: posts.qmd  
+      - text: Contact
+        href: contact.qmd 
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/CV-Jianing.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/jianing-d
         target: _blank
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+        target: _blank   
+#      - text: '<i class="ai ai-google-scholar fa-lg"></i>'
+#        href: https://scholar.google.com/citations?user=DY2D56IAAAAJ
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
-    right:  
-      - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+    center: "[Jianing Ding](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
   
   search:
     location: navbar
@@ -79,7 +51,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://github.com/jianing-d/jianingding.github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -87,11 +59,11 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://jianing-ding.netlify.app"
   
-  google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
+#  google-analytics:
+#    tracking-id: ""  # Please delete or replace with your own tracking ID
+#    anonymize-ip: true 
 
 bibliography: references.bib
 

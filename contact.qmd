@@ -6,19 +6,13 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Jianing Ding**
 
-School
+Tongji University
 
-College
+Address: NO.4800 Caoan Rd Jiading District, Shanghai, Shanghai 201804
 
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
+E-mail: jianing.research@gmailcom
 
 
 </center>
