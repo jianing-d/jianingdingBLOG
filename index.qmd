@@ -17,7 +17,7 @@ about:
       href: mailto:jianing.research@gmail.com    
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/jianing-ding-86b949355/
+      href: https://www.linkedin.com/in/jianing-ding-7a8978363/
       target: _blank
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
       href: https://orcid.org/my-orcid?orcid=0009-0007-8770-3110
