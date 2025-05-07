@@ -65,6 +65,11 @@ I am Jianing Ding, a graduate student at Tongji University as well as a primary 
 - Master in Public Policy, 2024 - recent, Tongji University
 - BSc in Taxation, 2020 - 2024, University of Shanghai for Science and Technology
 
+## R package development
+- [📦️SECFC: Survey Embedded Carbon Footprint Calculator](https://jianing-d.github.io/SECFC/)
+- [📦️SECFC Shiny App: Shiny UI for Survey Embedded Carbon Footprint Calculator](https://ziqianxia.shinyapps.io/secfc/)
+
+
 :::
 
 ## Recent Posts
