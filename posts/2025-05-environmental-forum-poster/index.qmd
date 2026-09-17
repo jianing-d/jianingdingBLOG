@@ -1,0 +1,12 @@
+---
+title: "Poster Presentation at the 20th National Graduate Student Environmental Forum"
+author: "Jianing Ding"
+date: "2025-05-01"
+date-format: "MMMM YYYY"
+categories: [presentation, conference]
+image: "poster.jpg"
+pinned: 0
+title-block-banner: false
+---
+
+![](poster.jpg){fig-alt="Presenting my poster at the 20th National Graduate Student Environmental Forum" width=85% fig-align="center"}

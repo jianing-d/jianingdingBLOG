@@ -1,0 +1,14 @@
+---
+title: "Environmental Systems Engineering Summer School"
+author: "Jianing Ding"
+date: "2025-08-01"
+date-format: "MMMM YYYY"
+categories: [summer school, award]
+image: "summer-school.jpg"
+pinned: 0
+title-block-banner: false
+---
+
+The six-day program at Northeast Normal University focused on AI-driven environmental innovation and brought together more than 80 participants in nine teams. I received the Outstanding Participant award.
+
+![](summer-school.jpg){fig-alt="At the 5th Environmental Systems Engineering Summer School" width=100% fig-align="center"}

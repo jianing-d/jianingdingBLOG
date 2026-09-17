@@ -8,77 +8,196 @@
 <title>Jianing Ding</title>
 <link>https://jianing-ding.netlify.app/posts.html</link>
 <atom:link href="https://jianing-ding.netlify.app/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Jianing Ding&#39;s personal website</description>
+<description>Jianing Ding studies how urban infrastructure and public services shape household environmental behavior.</description>
 <image>
-<url>https://jianing-ding.netlify.app/files/profiles/2024-06-03 204008.JPG</url>
+<url>https://jianing-ding.netlify.app/files/profiles/2024-06-03 204008.jpg</url>
 <title>Jianing Ding</title>
 <link>https://jianing-ding.netlify.app/posts.html</link>
 </image>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 21 Mar 2025 16:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Sun, 31 May 2026 16:00:00 GMT</lastBuildDate>
 <item>
-  <title>Event item</title>
-  <dc:creator>Event </dc:creator>
-  <link>https://jianing-ding.netlify.app/posts/event-title/</link>
+  <title>Research Visit at Copenhagen Business School</title>
+  <dc:creator>Jianing Ding</dc:creator>
+  <link>https://jianing-ding.netlify.app/posts/2026-copenhagen-research-visit/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://jianing-ding.netlify.app/files/images/p3.JPG" width="100%"></p>
-<p>This section is currently under construction. I’m in the process of updating this part of my website. Please check back soon for more information about my research, projects, and academic journey. Thank you for your patience!</p>
-<p>20250324 <!--Include social share buttons--></p>
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+<p>From January to June 2026, I was a Visiting Graduate Student in the Department of Management, Society and Communication at Copenhagen Business School.</p>
+<p>I work with Kristian Steensen Nielsen on an ongoing project on personal climate agency, contributing to data analysis and visualization.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://jianing-ding.netlify.app/posts/2026-copenhagen-research-visit/cbs-visit.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%" alt="With Kristian Steensen Nielsen at Copenhagen Business School"></p>
+</figure>
 </div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 
  ]]></description>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://jianing-ding.netlify.app/posts/event-title/</guid>
-  <pubDate>Fri, 21 Mar 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://jianing-ding.netlify.app/files/images/p3.JPG" medium="image"/>
+  <category>research visit</category>
+  <category>Copenhagen</category>
+  <guid>https://jianing-ding.netlify.app/posts/2026-copenhagen-research-visit/</guid>
+  <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
+  <media:content url="https://jianing-ding.netlify.app/posts/2026-copenhagen-research-visit/cbs-visit.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>News item</title>
-  <dc:creator>News </dc:creator>
-  <link>https://jianing-ding.netlify.app/posts/news-title/</link>
+  <title>Environmental Systems Engineering Summer School</title>
+  <dc:creator>Jianing Ding</dc:creator>
+  <link>https://jianing-ding.netlify.app/posts/2025-08-environmental-systems-summer-school/</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p><img src="https://jianing-ding.netlify.app/files/images/p1.JPG" width="100%"></p>
-<p>This section is currently under construction. I’m in the process of updating this part of my website. Please check back soon for more information about my research, projects, and academic journey. Thank you for your patience!</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+<p>The six-day program at Northeast Normal University focused on AI-driven environmental innovation and brought together more than 80 participants in nine teams. I received the Outstanding Participant award.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://jianing-ding.netlify.app/posts/2025-08-environmental-systems-summer-school/summer-school.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%" alt="At the 5th Environmental Systems Engineering Summer School"></p>
+</figure>
 </div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
-</section>
 
  ]]></description>
-  <category>news</category>
-  <guid>https://jianing-ding.netlify.app/posts/news-title/</guid>
-  <pubDate>Fri, 21 Mar 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://jianing-ding.netlify.app/files/images/p1.JPG" medium="image"/>
+  <category>summer school</category>
+  <category>award</category>
+  <guid>https://jianing-ding.netlify.app/posts/2025-08-environmental-systems-summer-school/</guid>
+  <pubDate>Thu, 31 Jul 2025 16:00:00 GMT</pubDate>
+  <media:content url="https://jianing-ding.netlify.app/posts/2025-08-environmental-systems-summer-school/summer-school.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Oral Presentation at the Chinese Industrial Ecology Academic Annual Conference</title>
+  <dc:creator>Jianing Ding</dc:creator>
+  <link>https://jianing-ding.netlify.app/posts/2025-07-industrial-ecology-conference/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In July 2025, I gave an oral presentation titled “Bin to Behavior: Characterizing Household Waste-Sorting Behavior Using High-Frequency Disposal Data” at the Chinese Industrial Ecology Academic Annual Conference.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://jianing-ding.netlify.app/posts/2025-07-industrial-ecology-conference/presentation.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%" alt="Presenting our analysis of high-frequency household waste-disposal data"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>presentation</category>
+  <category>conference</category>
+  <guid>https://jianing-ding.netlify.app/posts/2025-07-industrial-ecology-conference/</guid>
+  <pubDate>Mon, 30 Jun 2025 16:00:00 GMT</pubDate>
+  <media:content url="https://jianing-ding.netlify.app/posts/2025-07-industrial-ecology-conference/presentation.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Volunteer at the Global Student Environmental Solutions Challenge</title>
+  <dc:creator>Jianing Ding</dc:creator>
+  <link>https://jianing-ding.netlify.app/posts/2025-06-environmental-solutions-volunteer/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://jianing-ding.netlify.app/posts/2025-06-environmental-solutions-volunteer/volunteer.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:70.0%" alt="Volunteering at the 2025 Global Student Environmental Solutions Challenge"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>service</category>
+  <category>event</category>
+  <guid>https://jianing-ding.netlify.app/posts/2025-06-environmental-solutions-volunteer/</guid>
+  <pubDate>Sat, 31 May 2025 16:00:00 GMT</pubDate>
+  <media:content url="https://jianing-ding.netlify.app/posts/2025-06-environmental-solutions-volunteer/volunteer.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Oral Presentation at the 2025 Annual Conference of the Chinese Association of Social Psychology</title>
+  <dc:creator>Jianing Ding</dc:creator>
+  <link>https://jianing-ding.netlify.app/posts/2025-06-social-psychology-conference/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I presented our meta-analysis of carbon labeling and consumer choices.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://jianing-ding.netlify.app/posts/2025-06-social-psychology-conference/presentation.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%" alt="Giving an oral presentation at the 2025 Annual Conference of the Chinese Association of Social Psychology"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>presentation</category>
+  <category>conference</category>
+  <guid>https://jianing-ding.netlify.app/posts/2025-06-social-psychology-conference/</guid>
+  <pubDate>Sat, 31 May 2025 16:00:00 GMT</pubDate>
+  <media:content url="https://jianing-ding.netlify.app/posts/2025-06-social-psychology-conference/presentation.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Poster Presentation at the 20th National Graduate Student Environmental Forum</title>
+  <dc:creator>Jianing Ding</dc:creator>
+  <link>https://jianing-ding.netlify.app/posts/2025-05-environmental-forum-poster/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://jianing-ding.netlify.app/posts/2025-05-environmental-forum-poster/poster.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:85.0%" alt="Presenting my poster at the 20th National Graduate Student Environmental Forum"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>presentation</category>
+  <category>conference</category>
+  <guid>https://jianing-ding.netlify.app/posts/2025-05-environmental-forum-poster/</guid>
+  <pubDate>Wed, 30 Apr 2025 16:00:00 GMT</pubDate>
+  <media:content url="https://jianing-ding.netlify.app/posts/2025-05-environmental-forum-poster/poster.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Community Fieldwork in Ningbo</title>
+  <dc:creator>Jianing Ding</dc:creator>
+  <link>https://jianing-ding.netlify.app/posts/2025-01-ningbo-community-fieldwork/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In January 2025, I visited residential communities in Ningbo to understand how the recycling program operated in practice. I interviewed community staff, property-management personnel, residents, smart-bin supervisors, and collection drivers.</p>
+<p>Seeing the system in use helped me understand how the data were generated and led me to consider how access might shape participation.</p>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="https://jianing-ding.netlify.app/posts/2025-01-ningbo-community-fieldwork/fieldwork-1.jpg" class="img-fluid" alt="Preparing for the community visits"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="https://jianing-ding.netlify.app/posts/2025-01-ningbo-community-fieldwork/fieldwork-2.jpg" class="img-fluid" alt="Interviewing a staff member responsible for the community's waste collection facilities"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="https://jianing-ding.netlify.app/posts/2025-01-ningbo-community-fieldwork/fieldwork-3.jpg" class="img-fluid" alt="Interviewing residents in a neighborhood"></p>
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>fieldwork</category>
+  <category>research</category>
+  <guid>https://jianing-ding.netlify.app/posts/2025-01-ningbo-community-fieldwork/</guid>
+  <pubDate>Tue, 31 Dec 2024 16:00:00 GMT</pubDate>
+  <media:content url="https://jianing-ding.netlify.app/posts/2025-01-ningbo-community-fieldwork/fieldwork-2.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

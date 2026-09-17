@@ -1,0 +1,22 @@
+---
+title: "Community Fieldwork in Ningbo"
+author: "Jianing Ding"
+date: "2025-01-01"
+date-format: "MMMM YYYY"
+categories: [fieldwork, research]
+image: "fieldwork-2.jpg"
+pinned: 2
+title-block-banner: false
+---
+
+In January 2025, I visited residential communities in Ningbo to understand how the recycling program operated in practice. I interviewed community staff, property-management personnel, residents, smart-bin supervisors, and collection drivers.
+
+Seeing the system in use helped me understand how the data were generated and led me to consider how access might shape participation.
+
+::: {layout-ncol=3}
+![](fieldwork-1.jpg){fig-alt="Preparing for the community visits"}
+
+![](fieldwork-2.jpg){fig-alt="Interviewing a staff member responsible for the community's waste collection facilities"}
+
+![](fieldwork-3.jpg){fig-alt="Interviewing residents in a neighborhood"}
+:::

@@ -1,35 +1,51 @@
 ---
-title: "Projects"
-subtitle: "Funded projects"
-page-layout: full
-listing: 
-- id: projects
-  sort: "started desc"
-  type: table
-  fields: [image, title, author, subtitle, description, funding, started, ended]
-  grid-item-align: left
-  grid-columns: 3
-  image-height: 30px
-  field-display-names: 
-      title: "Title"
-      author: "Team"
-      subtitle: "Funder"
-      started: "Start"
-      ended: "End"
-      funding: "Funding"
-#  categories: true
-#  sort-ui: true
-#  filter-ui: true
-  contents: 
-#    - projects/ 
-    - projects.yml 
+title: "Research Experience"
+subtitle: "Selected projects and collaborations"
+description-meta: "Selected research projects and collaborations by Jianing Ding"
+title-block-banner: false
+toc: true
+toc-title: "On this page"
 ---
 
+## Urban Recycling Infrastructure in Ningbo {#ningbo-recycling-project}
 
-:::{#projects}
+::: {.project-meta}
+**Role:** Master's researcher<br>
+**Principal investigator:** [Chao Zhang](https://sem.tongji.edu.cn/semen/12413.html), my master's supervisor<br>
+**Project:** World Bank-financed China Plastic Waste Reduction Project, Ningbo Component<br>
+**Period:** 2024–present<br>
+**Status:** Manuscript in preparation
 :::
 
+Within the project, I analyze operational data from smart recycling bins in Ningbo's central urban area to assess program implementation. My work includes cleaning and structuring longitudinal records, measuring household participation and infrastructure access, and examining how usage varies across locations and over time.
 
-<!--Include social share buttons-->
+For an associated working paper, I use a research sample drawn from the broader project database to study how spatial friction shapes household use of recycling infrastructure. I have led the paper from developing the research question through data preparation, analysis, visualization, and drafting the initial manuscript.
 
-{{< include /files/includes/_socialshare.qmd >}}
+The underlying operational records are confidential, so I do not share disaggregated data or results on this website.
+
+[Fieldwork note](posts/2025-01-ningbo-community-fieldwork/index.qmd)
+
+## Personal Climate Agency {#personal-climate-agency}
+
+::: {.project-meta}
+**Role:** Research collaborator<br>
+**Collaborator:** [Kristian Steensen Nielsen](https://www.cbs.dk/en/research/departments/department-management-society-and-communication/kristian-steensen-nielsen)<br>
+**Institution:** Department of Management, Society and Communication, Copenhagen Business School<br>
+**Research visit:** January–June 2026<br>
+**Collaboration:** 2026–present
+:::
+
+I work with Kristian Steensen Nielsen on an ongoing project on personal climate agency, contributing to data analysis and visualization.
+
+[Research visit note](posts/2026-copenhagen-research-visit/index.qmd)
+
+## SECFC Research Software {#secfc}
+
+::: {.project-meta}
+**Role:** Developer and maintainer<br>
+**Status:** Open-source software; accompanying manuscript in preparation
+:::
+
+I developed and maintain **SECFC**, an R package that estimates carbon footprints from lifestyle survey responses. I built the package, its documentation website, and the underlying calculation workflow so that researchers can connect survey measures of behavior with estimates of associated greenhouse gas emissions.
+
+[Documentation](https://jianing-d.github.io/SECFC/) · [Interactive app](https://ziqianxia.shinyapps.io/secfc/) · [Research page](publications.qmd#software)

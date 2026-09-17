@@ -1,0 +1,14 @@
+---
+title: "Oral Presentation at the Chinese Industrial Ecology Academic Annual Conference"
+author: "Jianing Ding"
+date: "2025-07-01"
+date-format: "MMMM YYYY"
+categories: [presentation, conference]
+image: "presentation.jpg"
+pinned: 0
+title-block-banner: false
+---
+
+In July 2025, I gave an oral presentation titled “Bin to Behavior: Characterizing Household Waste-Sorting Behavior Using High-Frequency Disposal Data” at the Chinese Industrial Ecology Academic Annual Conference.
+
+![](presentation.jpg){fig-alt="Presenting our analysis of high-frequency household waste-disposal data" width=100% fig-align="center"}

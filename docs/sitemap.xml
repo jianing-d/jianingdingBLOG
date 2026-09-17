@@ -1,75 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts.html</loc>
-    <lastmod>2025-02-08T14:15:24.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/publications.html</loc>
-    <lastmod>2025-03-11T20:28:51.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/projects.html</loc>
-    <lastmod>2025-02-10T13:31:20.796Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/index.html</loc>
-    <lastmod>2025-02-10T14:44:39.824Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/index.html</loc>
-    <lastmod>2025-02-08T20:29:49.171Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/teaching.html</loc>
-    <lastmod>2025-02-10T15:14:33.036Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/contact.html</loc>
-    <lastmod>2025-02-08T02:43:14.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/index.html</loc>
-    <lastmod>2025-02-10T14:44:43.941Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/index.html</loc>
-    <lastmod>2025-03-22T13:46:02.407Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/people.html</loc>
-    <lastmod>2025-02-08T18:00:52.023Z</lastmod>
+    <loc>https://jianing-ding.netlify.app/posts.html</loc>
+    <lastmod>2026-09-17T14:49:21.564Z</lastmod>
   </url>
   <url>
     <loc>https://jianing-ding.netlify.app/index.html</loc>
-    <lastmod>2025-05-07T07:58:10.086Z</lastmod>
+    <lastmod>2026-09-17T16:22:16.129Z</lastmod>
   </url>
   <url>
-    <loc>https://jianing-ding.netlify.app/publications.html</loc>
-    <lastmod>2025-03-22T16:14:55.768Z</lastmod>
+    <loc>https://jianing-ding.netlify.app/posts/2025-01-ningbo-community-fieldwork/index.html</loc>
+    <lastmod>2026-09-17T15:58:16.048Z</lastmod>
   </url>
   <url>
-    <loc>https://jianing-ding.netlify.app/projects.html</loc>
-    <lastmod>2025-03-21T14:57:30.185Z</lastmod>
+    <loc>https://jianing-ding.netlify.app/posts/2025-08-environmental-systems-summer-school/index.html</loc>
+    <lastmod>2026-09-17T15:58:16.049Z</lastmod>
   </url>
   <url>
-    <loc>https://jianing-ding.netlify.app/posts.html</loc>
-    <lastmod>2025-03-21T14:57:30.178Z</lastmod>
+    <loc>https://jianing-ding.netlify.app/posts/2025-07-industrial-ecology-conference/index.html</loc>
+    <lastmod>2026-09-17T15:58:16.049Z</lastmod>
   </url>
   <url>
     <loc>https://jianing-ding.netlify.app/contact.html</loc>
-    <lastmod>2025-03-22T16:17:44.468Z</lastmod>
+    <lastmod>2026-09-17T14:55:15.370Z</lastmod>
   </url>
   <url>
-    <loc>https://jianing-ding.netlify.app/posts/event-title/index.html</loc>
-    <lastmod>2025-03-24T03:22:01.538Z</lastmod>
+    <loc>https://jianing-ding.netlify.app/posts/2026-copenhagen-research-visit/index.html</loc>
+    <lastmod>2026-09-17T16:22:16.130Z</lastmod>
   </url>
   <url>
-    <loc>https://jianing-ding.netlify.app/posts/news-title/index.html</loc>
-    <lastmod>2025-03-22T17:20:59.076Z</lastmod>
+    <loc>https://jianing-ding.netlify.app/posts/2025-06-environmental-solutions-volunteer/index.html</loc>
+    <lastmod>2026-09-17T15:58:16.048Z</lastmod>
   </url>
   <url>
-    <loc>https://jianing-ding.netlify.app/posts/paper-title/index.html</loc>
-    <lastmod>2025-03-22T17:21:48.333Z</lastmod>
+    <loc>https://jianing-ding.netlify.app/posts/2025-05-environmental-forum-poster/index.html</loc>
+    <lastmod>2026-09-17T15:58:16.048Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jianing-ding.netlify.app/posts/2025-06-social-psychology-conference/index.html</loc>
+    <lastmod>2026-09-17T15:58:16.049Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jianing-ding.netlify.app/projects.html</loc>
+    <lastmod>2026-09-17T16:22:16.130Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jianing-ding.netlify.app/publications.html</loc>
+    <lastmod>2026-09-17T16:11:13.147Z</lastmod>
   </url>
 </urlset>

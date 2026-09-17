@@ -2,162 +2,134 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "What’s New & Updated",
+    "title": "Posts",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npaper\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nMar 22, 2025\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nMar 22, 2025\n\n\nNews\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting student;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)"
-  },
-  {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n       Default\n         \n        \n         \n          Title\n        \n         \n          Team\n        \n         \n          Funder\n        \n         \n          Description\n        \n         \n          Start\n        \n         \n          End\n        \n         \n          Funding\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nTitle\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\n\n\n宁波市智慧垃圾分类项目\n\n\nChao Zhang\n\n\nWorld Bank\n\n\n宁波市智慧垃圾分类管理平台数据分析监测评价咨询服务\n\n\n \n\n\n2024\n\n\n2027\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "This section is currently under construction. I’m in the process of updating this part of my website. Please check back soon for more information about my research, projects, and academic journey. Thank you for your patience!"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "This section is currently under construction. I’m in the process of updating this part of my website. Please check back soon for more information about my research, projects, and academic journey. Thank you for your patience!"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
-    "title": "Teaching",
-    "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
-  },
-  {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Jianing Ding\nTongji University\nAddress: NO.4800 Caoan Rd Jiading District, Shanghai, Shanghai 201804\nE-mail: jianing.research@gmailcom"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nResearch Visit at Copenhagen Business School\n\n\n\nresearch visit\n\nCopenhagen\n\n\n\n\n\n\n\n\n\nJune 2026\n\n\nJianing Ding\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Systems Engineering Summer School\n\n\n\nsummer school\n\naward\n\n\n\n\n\n\n\n\n\nAugust 2025\n\n\nJianing Ding\n\n\n\n\n\n\n\n\n\n\n\n\nOral Presentation at the Chinese Industrial Ecology Academic Annual Conference\n\n\n\npresentation\n\nconference\n\n\n\n\n\n\n\n\n\nJuly 2025\n\n\nJianing Ding\n\n\n\n\n\n\n\n\n\n\n\n\nVolunteer at the Global Student Environmental Solutions Challenge\n\n\n\nservice\n\nevent\n\n\n\n\n\n\n\n\n\nJune 2025\n\n\nJianing Ding\n\n\n\n\n\n\n\n\n\n\n\n\nOral Presentation at the 2025 Annual Conference of the Chinese Association of Social Psychology\n\n\n\npresentation\n\nconference\n\n\n\n\n\n\n\n\n\nJune 2025\n\n\nJianing Ding\n\n\n\n\n\n\n\n\n\n\n\n\nPoster Presentation at the 20th National Graduate Student Environmental Forum\n\n\n\npresentation\n\nconference\n\n\n\n\n\n\n\n\n\nMay 2025\n\n\nJianing Ding\n\n\n\n\n\n\n\n\n\n\n\n\nCommunity Fieldwork in Ningbo\n\n\n\nfieldwork\n\nresearch\n\n\n\n\n\n\n\n\n\nJanuary 2025\n\n\nJianing Ding\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jianing Ding (丁嘉宁)",
     "section": "",
-    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n\n  \n  \n\n\nI am Jianing Ding, a graduate student at Tongji University as well as a primary researcher at Chao Zhang’s Group.\n\nI am interested in research on the human and policy dimensions of climate change.\n\n\n\n\n\nMaster in Public Policy, 2024 - recent, Tongji University\nBSc in Taxation, 2020 - 2024, University of Shanghai for Science and Technology\n\n\n\n\n\n📦️SECFC: Survey Embedded Carbon Footprint Calculator\n📦️SECFC Shiny App: Shiny UI for Survey Embedded Carbon Footprint Calculator"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Jianing Ding (丁嘉宁)",
-    "section": "",
-    "text": "Researcher, Univerisity"
+    "text": "Email\n  \n  \n      Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n      ORCID\n  \n\n  \n  \nI’m a master’s student in Management Science at Tongji University, where I work with Professor Chao Zhang. I study how urban infrastructure and public services shape household environmental behavior.\nMy main project examines whether access to neighborhood recycling stations is associated with household waste-sorting behavior in Ningbo, China. I work with longitudinal operational records from smart recycling bins and am preparing the manuscript with collaborators.\nI developed and maintain SECFC, an open-source R package that estimates carbon footprints from lifestyle survey responses. I built the package and its documentation website to help researchers calculate the emissions associated with the behaviors they study.\nMy other work includes a meta-analysis of carbon labeling and consumer choices, currently under major revision at PNAS Nexus. I also work with Kristian Steensen Nielsen on a project on personal climate agency, contributing to data analysis and visualization.\nI’m seeking PhD opportunities beginning in Fall 2027."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Jianing Ding (丁嘉宁)",
-    "section": "",
-    "text": "Master in Public Policy, 2024 - recent, Tongji University\nBSc in Taxation, 2020 - 2024, University of Shanghai for Science and Technology"
+    "section": "Education",
+    "text": "Education\n\nMaster of Management Science, 2024–2027 (expected), Tongji University\nVisiting Graduate Student, Jan–Jun 2026, Copenhagen Business School\nBSc in Taxation, 2020–2024, University of Shanghai for Science and Technology"
   },
   {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
+    "objectID": "index.html#selected-posts",
+    "href": "index.html#selected-posts",
     "title": "Jianing Ding (丁嘉宁)",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More ».\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nMar 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nMar 22, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
+    "section": "Selected Posts",
+    "text": "Selected Posts\nSelected updates from my research and academic activities.\n\n\n\n\n\n\n\n\n\n\nCommunity Fieldwork in Ningbo\n\n\n\nJanuary 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Visit at Copenhagen Business School\n\n\n\nJune 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Systems Engineering Summer School\n\n\n\nAugust 2025\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "posts/2025-01-ningbo-community-fieldwork/index.html",
+    "href": "posts/2025-01-ningbo-community-fieldwork/index.html",
+    "title": "Community Fieldwork in Ningbo",
     "section": "",
-    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\n\n\nNo matching items"
+    "text": "In January 2025, I visited residential communities in Ningbo to understand how the recycling program operated in practice. I interviewed community staff, property-management personnel, residents, smart-bin supervisors, and collection drivers.\nSeeing the system in use helped me understand how the data were generated and led me to consider how access might shape participation."
   },
   {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
+    "objectID": "posts/2025-08-environmental-systems-summer-school/index.html",
+    "href": "posts/2025-08-environmental-systems-summer-school/index.html",
+    "title": "Environmental Systems Engineering Summer School",
     "section": "",
-    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The six-day program at Northeast Normal University focused on AI-driven environmental innovation and brought together more than 80 participants in nine teams. I received the Outstanding Participant award."
   },
   {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n        \n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\n\n\nStudent Name\n\n\nPhD Student\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\nPI Name\n\n\nPI\n\n\n \n\n\n \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/event-title/index.html",
-    "href": "posts/event-title/index.html",
-    "title": "Event item",
+    "objectID": "posts/2025-07-industrial-ecology-conference/index.html",
+    "href": "posts/2025-07-industrial-ecology-conference/index.html",
+    "title": "Oral Presentation at the Chinese Industrial Ecology Academic Annual Conference",
     "section": "",
-    "text": "This section is currently under construction. I’m in the process of updating this part of my website. Please check back soon for more information about my research, projects, and academic journey. Thank you for your patience!\n20250324"
+    "text": "In July 2025, I gave an oral presentation titled “Bin to Behavior: Characterizing Household Waste-Sorting Behavior Using High-Frequency Disposal Data” at the Chinese Industrial Ecology Academic Annual Conference."
   },
   {
-    "objectID": "posts/paper-title/index.html",
-    "href": "posts/paper-title/index.html",
-    "title": "Jianing Ding",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "This section is currently under construction. I’m in the process of updating this part of my website. Please check back soon for more information about my research, projects, and academic journey. Thank you for your patience!\n\n\n\nCitationBibTeX citation:@article{untitled,\n  author = {},\n  title = {},\n  url = {https://jianing-ding.netlify.app/posts/paper-title/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nn.d. https://jianing-ding.netlify.app/posts/paper-title/."
+    "text": "Master’s student in Management Science Tongji University Shanghai, China\nEmail (jianing.research at gmail dot com) · Google Scholar · LinkedIn · GitHub · ORCID"
   },
   {
-    "objectID": "index.html#r-package-development",
-    "href": "index.html#r-package-development",
-    "title": "Jianing Ding (丁嘉宁)",
+    "objectID": "contact.html#jianing-ding",
+    "href": "contact.html#jianing-ding",
+    "title": "Contact",
     "section": "",
-    "text": "📦️SECFC: Survey Embedded Carbon Footprint Calculator\n📦️SECFC Shiny App: Shiny UI for Survey Embedded Carbon Footprint Calculator"
+    "text": "Master’s student in Management Science Tongji University Shanghai, China\nEmail (jianing.research at gmail dot com) · Google Scholar · LinkedIn · GitHub · ORCID"
+  },
+  {
+    "objectID": "posts/2026-copenhagen-research-visit/index.html",
+    "href": "posts/2026-copenhagen-research-visit/index.html",
+    "title": "Research Visit at Copenhagen Business School",
+    "section": "",
+    "text": "From January to June 2026, I was a Visiting Graduate Student in the Department of Management, Society and Communication at Copenhagen Business School.\nI work with Kristian Steensen Nielsen on an ongoing project on personal climate agency, contributing to data analysis and visualization."
+  },
+  {
+    "objectID": "posts/2025-06-social-psychology-conference/index.html",
+    "href": "posts/2025-06-social-psychology-conference/index.html",
+    "title": "Oral Presentation at the 2025 Annual Conference of the Chinese Association of Social Psychology",
+    "section": "",
+    "text": "I presented our meta-analysis of carbon labeling and consumer choices."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Experience",
+    "section": "",
+    "text": "Role: Master’s researcher Principal investigator: Chao Zhang, my master’s supervisor Project: World Bank-financed China Plastic Waste Reduction Project, Ningbo Component Period: 2024–present Status: Manuscript in preparation\n\nWithin the project, I analyze operational data from smart recycling bins in Ningbo’s central urban area to assess program implementation. My work includes cleaning and structuring longitudinal records, measuring household participation and infrastructure access, and examining how usage varies across locations and over time.\nFor an associated working paper, I use a research sample drawn from the broader project database to study how spatial friction shapes household use of recycling infrastructure. I have led the paper from developing the research question through data preparation, analysis, visualization, and drafting the initial manuscript.\nThe underlying operational records are confidential, so I do not share disaggregated data or results on this website.\nFieldwork note"
+  },
+  {
+    "objectID": "projects.html#ningbo-recycling-project",
+    "href": "projects.html#ningbo-recycling-project",
+    "title": "Research Experience",
+    "section": "",
+    "text": "Role: Master’s researcher Principal investigator: Chao Zhang, my master’s supervisor Project: World Bank-financed China Plastic Waste Reduction Project, Ningbo Component Period: 2024–present Status: Manuscript in preparation\n\nWithin the project, I analyze operational data from smart recycling bins in Ningbo’s central urban area to assess program implementation. My work includes cleaning and structuring longitudinal records, measuring household participation and infrastructure access, and examining how usage varies across locations and over time.\nFor an associated working paper, I use a research sample drawn from the broader project database to study how spatial friction shapes household use of recycling infrastructure. I have led the paper from developing the research question through data preparation, analysis, visualization, and drafting the initial manuscript.\nThe underlying operational records are confidential, so I do not share disaggregated data or results on this website.\nFieldwork note"
+  },
+  {
+    "objectID": "projects.html#personal-climate-agency",
+    "href": "projects.html#personal-climate-agency",
+    "title": "Research Experience",
+    "section": "Personal Climate Agency",
+    "text": "Personal Climate Agency\n\nRole: Research collaborator Collaborator: Kristian Steensen Nielsen Institution: Department of Management, Society and Communication, Copenhagen Business School Research visit: January–June 2026 Collaboration: 2026–present\n\nI work with Kristian Steensen Nielsen on an ongoing project on personal climate agency, contributing to data analysis and visualization.\nResearch visit note"
+  },
+  {
+    "objectID": "projects.html#secfc",
+    "href": "projects.html#secfc",
+    "title": "Research Experience",
+    "section": "SECFC Research Software",
+    "text": "SECFC Research Software\n\nRole: Developer and maintainer Status: Open-source software; accompanying manuscript in preparation\n\nI developed and maintain SECFC, an R package that estimates carbon footprints from lifestyle survey responses. I built the package, its documentation website, and the underlying calculation workflow so that researchers can connect survey measures of behavior with estimates of associated greenhouse gas emissions.\nDocumentation · Interactive app · Research page"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Research",
+    "section": "",
+    "text": "Xia, Z.†, Ding, J.†,*, Geiger, N., Ye, J., Zhang, C.*, Bai, T., Constantino, S., & Nielsen, K. S. A meta-analysis of the real-world impact of carbon labeling on consumer choices. † Equal contribution; * corresponding authors. Major revision requested at PNAS Nexus. [Earlier preprint version]\nXia, Z., Ye, J., Ding, J., Geiger, N., Hahnel, U., Debnath, R., Constantino, S., Zhang, C., & Nielsen, K. S. Predicting climate policy support with large language models: Assessing accuracy and bias in AI-simulated policy support. Preprint available; manuscript in preparation for submission. [Preprint]"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Research",
+    "section": "",
+    "text": "Xia, Z.†, Ding, J.†,*, Geiger, N., Ye, J., Zhang, C.*, Bai, T., Constantino, S., & Nielsen, K. S. A meta-analysis of the real-world impact of carbon labeling on consumer choices. † Equal contribution; * corresponding authors. Major revision requested at PNAS Nexus. [Earlier preprint version]\nXia, Z., Ye, J., Ding, J., Geiger, N., Hahnel, U., Debnath, R., Constantino, S., Zhang, C., & Nielsen, K. S. Predicting climate policy support with large language models: Assessing accuracy and bias in AI-simulated policy support. Preprint available; manuscript in preparation for submission. [Preprint]"
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\nDing, J., Xia, Z., Dablander, F., Constantino, S., Wang, T., Yao, L., Nielsen, K. S., & Zhang, C. Spatial friction shapes household use of urban recycling infrastructure. Manuscript in preparation.\nDing, J.†, Xia, Z.†, Xie, J., Geiger, N., Constantino, S., Hu, B., Zhang, C., & Lam, K. L. SECFC: A transparent, open-source R package for survey-embedded carbon footprint calculation in environmental psychology. † Equal contribution. Manuscript in preparation."
+  },
+  {
+    "objectID": "publications.html#software",
+    "href": "publications.html#software",
+    "title": "Research",
+    "section": "Software",
+    "text": "Software\nSECFC: Survey-Embedded Carbon Footprint Calculator. An open-source R package for estimating carbon footprints from lifestyle survey responses. [Documentation] [Interactive app]\nThe linked files are preprint versions and have not been formally published. The carbon-labeling link points to an earlier version of the manuscript currently under major revision at PNAS Nexus."
   }
 ]

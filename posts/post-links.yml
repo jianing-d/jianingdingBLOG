@@ -1,9 +1,0 @@
-
-    - path: https://github.com/jianing-d/SECFC
-      image: "/files/images/logo.png"
-      title: "SECFC"
-      author: "Jianing Ding"
-      description: "A Transparent, Open-Source R Package for Survey-Embedded Carbon Footprint Calculation in Environmental Psychology"
-      date: "2025-03-21"
-      categories: [news] 
-

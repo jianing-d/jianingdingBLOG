@@ -2,25 +2,25 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/paper-title/index.html",
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html"
+      "/posts/2026-copenhagen-research-visit/index.html",
+      "/posts/2025-08-environmental-systems-summer-school/index.html",
+      "/posts/2025-07-industrial-ecology-conference/index.html",
+      "/posts/2025-06-environmental-solutions-volunteer/index.html",
+      "/posts/2025-06-social-psychology-conference/index.html",
+      "/posts/2025-05-environmental-forum-poster/index.html",
+      "/posts/2025-01-ningbo-community-fieldwork/index.html"
     ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": []
   },
   {
     "listing": "/index.html",
     "items": [
-      "/posts/paper-title/index.html",
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html"
+      "/posts/2025-01-ningbo-community-fieldwork/index.html",
+      "/posts/2026-copenhagen-research-visit/index.html",
+      "/posts/2025-08-environmental-systems-summer-school/index.html",
+      "/posts/2025-07-industrial-ecology-conference/index.html",
+      "/posts/2025-06-social-psychology-conference/index.html",
+      "/posts/2025-06-environmental-solutions-volunteer/index.html",
+      "/posts/2025-05-environmental-forum-poster/index.html"
     ]
-  },
-  {
-    "listing": "/people.html",
-    "items": []
   }
 ]

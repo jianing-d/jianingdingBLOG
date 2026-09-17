@@ -1,14 +1,26 @@
 ---
-title: "Publications"
-description-meta: "Information, pdfs, and social metrics of papers"
-#page-layout: full
-#back-to-top-navigation: true
+title: "Research"
+description-meta: "Preprints, working papers, and research software by Jianing Ding"
 title-block-banner: false
 css: custom.css
 ---
 
+## Preprints
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
+Xia, Z.<sup>†</sup>, **Ding, J.**<sup>†,&#42;</sup>, Geiger, N., Ye, J., Zhang, C.<sup>&#42;</sup>, Bai, T., Constantino, S., & Nielsen, K. S. **A meta-analysis of the real-world impact of carbon labeling on consumer choices.**<br>
+<sup>†</sup> Equal contribution; <sup>&#42;</sup> corresponding authors. *Major revision requested at PNAS Nexus.* [[Earlier preprint version](https://doi.org/10.21203/rs.3.rs-6557928/v1)]
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting student; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
+Xia, Z., Ye, J., **Ding, J.**, Geiger, N., Hahnel, U., Debnath, R., Constantino, S., Zhang, C., & Nielsen, K. S. **Predicting climate policy support with large language models: Assessing accuracy and bias in AI-simulated policy support.** *Preprint available; manuscript in preparation for submission.* [[Preprint](https://doi.org/10.2139/ssrn.5266427)]
+
+## Working Papers
+
+**Ding, J.**, Xia, Z., Dablander, F., Constantino, S., Wang, T., Yao, L., Nielsen, K. S., & Zhang, C. **Spatial friction shapes household use of urban recycling infrastructure.** *Manuscript in preparation.*
+
+**Ding, J.**<sup>†</sup>, Xia, Z.<sup>†</sup>, Xie, J., Geiger, N., Constantino, S., Hu, B., Zhang, C., & Lam, K. L. **SECFC: A transparent, open-source R package for survey-embedded carbon footprint calculation in environmental psychology.**<br>
+<sup>†</sup> Equal contribution. *Manuscript in preparation.*
+
+## Software
+
+**SECFC: Survey-Embedded Carbon Footprint Calculator.** An open-source R package for estimating carbon footprints from lifestyle survey responses. [[Documentation](https://jianing-d.github.io/SECFC/)] [[Interactive app](https://ziqianxia.shinyapps.io/secfc/)]
+
+The linked files are preprint versions and have not been formally published. The carbon-labeling link points to an earlier version of the manuscript currently under major revision at *PNAS Nexus*.

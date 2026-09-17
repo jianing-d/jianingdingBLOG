@@ -1,0 +1,14 @@
+---
+title: "Oral Presentation at the 2025 Annual Conference of the Chinese Association of Social Psychology"
+author: "Jianing Ding"
+date: "2025-06-01"
+date-format: "MMMM YYYY"
+categories: [presentation, conference]
+image: "presentation.jpg"
+pinned: 0
+title-block-banner: false
+---
+
+I presented our meta-analysis of carbon labeling and consumer choices.
+
+![](presentation.jpg){fig-alt="Giving an oral presentation at the 2025 Annual Conference of the Chinese Association of Social Psychology" width=100% fig-align="center"}

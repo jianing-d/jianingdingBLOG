@@ -1,0 +1,16 @@
+---
+title: "Research Visit at Copenhagen Business School"
+author: "Jianing Ding"
+date: "2026-06-01"
+date-format: "MMMM YYYY"
+categories: [research visit, Copenhagen]
+image: "cbs-visit.jpg"
+pinned: 1
+title-block-banner: false
+---
+
+From January to June 2026, I was a Visiting Graduate Student in the Department of Management, Society and Communication at Copenhagen Business School.
+
+I work with Kristian Steensen Nielsen on an ongoing project on personal climate agency, contributing to data analysis and visualization.
+
+![](cbs-visit.jpg){fig-alt="With Kristian Steensen Nielsen at Copenhagen Business School" width=75% fig-align="center"}

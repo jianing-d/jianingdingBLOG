@@ -1,9 +1,10 @@
 ---
-title: "What’s New & Updated"
-subtitle: "Posts about papers, events, news, and more"
-description-meta: "Posts about papers, events, news, and more"
+title: "Posts"
+subtitle: "Research, fieldwork, conferences, and academic activities"
+description-meta: "Research and academic updates from Jianing Ding"
 listing: 
   sort: "date desc"
+  date-format: "MMMM YYYY"
   type: default
   page-size: 100
   categories: true
@@ -12,7 +13,6 @@ listing:
   feed: true
   contents: 
       - posts
-      - posts/post-links.yml
 #      categories: [] 
 
 #page-layout: full
@@ -20,4 +20,3 @@ draft-mode: unlinked
 page-navigation: false
 title-block-banner: false
 ---
-

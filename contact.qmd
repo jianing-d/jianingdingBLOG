@@ -4,15 +4,10 @@ description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
 ---
 
-<center>
+## Jianing Ding
 
-**Jianing Ding**
+Master's student in Management Science<br>
+Tongji University<br>
+Shanghai, China
 
-Tongji University
-
-Address: NO.4800 Caoan Rd Jiading District, Shanghai, Shanghai 201804
-
-E-mail: jianing.research@gmailcom
-
-
-</center>
+[Email](mailto:jianing.research@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=FZHSALwAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/jianing-ding-7a8978363/) · [GitHub](https://github.com/jianing-d) · [ORCID](https://orcid.org/0009-0007-8770-3110)

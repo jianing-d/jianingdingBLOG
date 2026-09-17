@@ -1,7 +1,7 @@
 ---
 title: "Jianing Ding (丁嘉宁)"
-description-meta: "Jianing Ding's personal website"
-image: "files/profiles/2024-06-03 204008.JPG"
+description-meta: "Jianing Ding studies how urban infrastructure and public services shape household environmental behavior."
+image: "files/profiles/2024-06-03 204008.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -13,33 +13,27 @@ about:
   image-width: 70%
   links:
     - icon: envelope
-      text: E-mail
+      text: Email
       href: mailto:jianing.research@gmail.com    
+    - text: "{{< ai google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=FZHSALwAAAAJ&hl=en
+      target: _blank
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jianing-ding-7a8978363/
       target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/jianing-d
+      target: _blank
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org/my-orcid?orcid=0009-0007-8770-3110
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
-      target: _blank
-    - text: "{{< ai researchgate >}} Research Gate"
-      href: https://www.researchgate.net/profile/Jianing-Ding-6?ev=hdr_xprf
+      href: https://orcid.org/0009-0007-8770-3110
       target: _blank
 
 listing:
   - id: recent-posts
-    contents: 
+    contents:
       - posts
-      - posts/post-links.yml
     exclude:
       title: ""
     type: grid
@@ -47,33 +41,36 @@ listing:
 #    image-height: 150px
     page-size: 3 #set same as max-times to remove the page number setting
     fields: [image, date, title, subtitle]
+    date-format: "MMMM YYYY"
     max-description-length: 75
     sort: 
+      - "pinned desc"
       - "date desc"
       - "title asc"
 ---
 
 :::{#hero-heading}
 
-### Welcome to my personal website!
-I am Jianing Ding, a graduate student at Tongji University as well as a primary researcher at Chao Zhang’s Group.
+I’m a master’s student in Management Science at Tongji University, where I work with Professor Chao Zhang. I study how urban infrastructure and public services shape household environmental behavior.
 
-- I am interested in research on the human and policy dimensions of climate change. 
+My main project examines whether access to neighborhood recycling stations is associated with household waste-sorting behavior in Ningbo, China. I work with longitudinal operational records from smart recycling bins and am preparing the manuscript with collaborators.
 
-## Education
+I developed and maintain [SECFC](https://jianing-d.github.io/SECFC/), an open-source R package that estimates carbon footprints from lifestyle survey responses. I built the package and its documentation website to help researchers calculate the emissions associated with the behaviors they study.
 
-- Master in Public Policy, 2024 - recent, Tongji University
-- BSc in Taxation, 2020 - 2024, University of Shanghai for Science and Technology
+My other work includes a meta-analysis of carbon labeling and consumer choices, currently under major revision at *PNAS Nexus*. I also work with Kristian Steensen Nielsen on a project on personal climate agency, contributing to data analysis and visualization.
 
-## R package development
-- [📦️SECFC: Survey Embedded Carbon Footprint Calculator](https://jianing-d.github.io/SECFC/)
-- [📦️SECFC Shiny App: Shiny UI for Survey Embedded Carbon Footprint Calculator](https://ziqianxia.shinyapps.io/secfc/)
-
+I’m seeking PhD opportunities beginning in Fall 2027.
 
 :::
 
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd).
+## Education
+
+- Master of Management Science, 2024–2027 (expected), Tongji University
+- Visiting Graduate Student, Jan–Jun 2026, Copenhagen Business School
+- BSc in Taxation, 2020–2024, University of Shanghai for Science and Technology
+
+## Selected Posts
+Selected updates from my research and academic activities.
 
 :::{#recent-posts}
 :::

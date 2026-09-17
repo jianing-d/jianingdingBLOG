@@ -1,0 +1,12 @@
+---
+title: "Volunteer at the Global Student Environmental Solutions Challenge"
+author: "Jianing Ding"
+date: "2025-06-01"
+date-format: "MMMM YYYY"
+categories: [service, event]
+image: "volunteer.jpg"
+pinned: 0
+title-block-banner: false
+---
+
+![](volunteer.jpg){fig-alt="Volunteering at the 2025 Global Student Environmental Solutions Challenge" width=70% fig-align="center"}
