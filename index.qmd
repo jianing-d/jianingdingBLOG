@@ -65,6 +65,8 @@ I’m seeking PhD opportunities beginning in Fall 2027.
 
 ## Education
 
+<img class="education-mascot" src="files/illustrations/jianing-mascot-reading.png" alt="" aria-hidden="true">
+
 - Master of Management Science, 2024–2027 (expected), Tongji University
 - Visiting Graduate Student, Jan–Jun 2026, Copenhagen Business School
 - BSc in Taxation, 2020–2024, University of Shanghai for Science and Technology

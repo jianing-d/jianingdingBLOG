@@ -13,6 +13,7 @@ website:
  
   navbar:
     background: light
+    logo: files/illustrations/jianing-mascot-smile.png
 
     left:
 #      - text: Home

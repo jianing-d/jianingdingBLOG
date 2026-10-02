@@ -1,7 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Nunito+Sans:ital,opsz,wght@0,6..12,400;0,6..12,600;0,6..12,700;1,6..12,400&display=swap");
+
 :root {
-  --site-accent: #176b73;
-  --site-accent-dark: #0f5056;
-  --site-border: #dce3e5;
+  --site-ink: #183b56;
+  --site-paper: #fffaf2;
+  --site-sky: #dcecf0;
+  --site-sky-strong: #acd1dc;
+  --site-orange: #d9784d;
+  --site-gold: #efb662;
+  --site-accent: #397f86;
+  --site-accent-dark: #245d63;
+  --site-border: #b7cbd0;
+}
+
+body {
+  color: var(--site-ink);
+  background: var(--site-paper);
+  font-family: "Nunito Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 a {
@@ -14,60 +28,281 @@ a:focus {
 }
 
 .navbar {
-  border-bottom: 1px solid #eef1f2;
+  min-height: 4.4rem;
+  border-bottom: 1.5px solid rgba(23, 50, 77, 0.55);
+  background: var(--site-sky) !important;
+}
+
+.navbar-brand {
+  position: relative;
+  color: var(--site-ink) !important;
+  font-family: "Kalam", "Bradley Hand", cursive;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+  transform: rotate(-1deg);
+}
+
+.navbar-brand:not(.navbar-brand-logo)::after {
+  position: absolute;
+  right: -0.15rem;
+  bottom: -0.28rem;
+  left: 0.05rem;
+  height: 0.28rem;
+  border-top: 3px solid var(--site-orange);
+  border-radius: 50%;
+  content: "";
+  transform: rotate(-1deg);
+}
+
+.navbar-brand-logo {
+  position: relative;
+  width: 2.45rem;
+  height: 2.45rem;
+  margin-right: 0.35rem;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid rgba(24, 59, 86, 0.35);
+  border-radius: 50%;
+  background: rgba(255, 250, 242, 0.9);
+  transform: rotate(-4deg);
+}
+
+.navbar-brand-logo .navbar-logo {
+  position: absolute;
+  top: -1.25rem;
+  left: -1.25rem;
+  width: 5rem;
+  max-height: none;
+  margin: 0;
+  mix-blend-mode: multiply;
+  opacity: 0.96;
+  transform: none;
+}
+
+.navbar .nav-link {
+  color: var(--site-ink);
+  font-weight: 700;
+  letter-spacing: 0.015em;
 }
 
 .navbar .nav-link:hover,
 .navbar .nav-link:focus,
 .navbar .nav-link.active {
-  color: var(--site-accent);
+  color: var(--site-accent-dark);
+}
+
+.navbar .nav-link.active {
+  text-decoration: underline;
+  text-decoration-color: var(--site-orange);
+  text-decoration-thickness: 3px;
+  text-underline-offset: 0.35rem;
 }
 
 div.quarto-about-trestles {
-  padding-top: 1.75rem !important;
-  padding-bottom: 1.25rem !important;
+  position: relative;
+  isolation: isolate;
+  width: min(1340px, calc(100% - 3rem));
+  margin: 1.65rem auto 2.8rem;
+  padding: 2.8rem 3.25rem 2.65rem !important;
+  overflow: hidden;
+  border: 1.8px solid var(--site-ink);
+  border-radius: 34px 22px 38px 20px;
+  background: var(--site-sky);
+  box-shadow: 9px 10px 0 rgba(217, 120, 77, 0.64);
+}
+
+div.quarto-about-trestles::after {
+  position: absolute;
+  z-index: -1;
+  right: -2rem;
+  bottom: -1.75rem;
+  width: 24rem;
+  height: 12rem;
+  background: url("files/illustrations/urban-data-path.svg") right bottom / contain no-repeat;
+  content: "";
+  opacity: 0.11;
+  transform: rotate(-2deg);
+}
+
+.quarto-about-trestles .about-entity {
+  position: relative;
+  z-index: 1;
+}
+
+.quarto-about-trestles .about-image {
+  border: 2px solid var(--site-ink);
+  border-radius: 21px 31px 18px 28px !important;
+  box-shadow: 8px 9px 0 var(--site-gold);
+  transform: rotate(-1deg);
+}
+
+.quarto-about-trestles h1.title {
+  margin-top: 1.4rem;
+  color: var(--site-ink);
+  font-family: "Kalam", "Bradley Hand", cursive;
+  font-size: clamp(2.35rem, 4vw, 3.5rem);
+  font-weight: 700;
+  line-height: 1.02;
+  transform: rotate(-0.6deg);
 }
 
 .quarto-about-trestles .about-contents {
   max-width: 70ch;
-  line-height: 1.58;
+  line-height: 1.63;
+}
+
+.quarto-about-trestles .about-contents p:first-child {
+  font-size: 1.08rem;
+  font-weight: 600;
+}
+
+.quarto-about-trestles .about-contents p:last-child {
+  display: inline-block;
+  margin-top: 0.35rem;
+  padding: 0.38rem 0.75rem 0.32rem;
+  border: 1.5px solid var(--site-ink);
+  border-radius: 15px 11px 16px 9px;
+  background: #f3c986;
+  box-shadow: 3px 3px 0 rgba(23, 50, 77, 0.18);
+  font-family: "Kalam", "Bradley Hand", cursive;
+  font-size: 1.02rem;
+  font-weight: 700;
+  line-height: 1.2;
+  transform: rotate(-0.5deg);
 }
 
 .quarto-about-trestles .about-links {
-  gap: 0.35rem;
+  gap: 0.45rem;
   justify-content: center;
 }
 
 .quarto-about-trestles .about-link {
-  padding: 0.28rem 0.48rem;
-  border-color: #aebcc0;
-  color: #4b5b60;
+  padding: 0.32rem 0.58rem;
+  border: 1.4px solid var(--site-ink);
+  border-radius: 11px 8px 12px 7px;
+  color: var(--site-ink);
+  background: rgba(255, 250, 241, 0.82);
   font-size: 0.78rem;
+  font-weight: 700;
+  transition: transform 150ms ease, box-shadow 150ms ease, background-color 150ms ease;
 }
 
 .quarto-about-trestles .about-link:hover,
 .quarto-about-trestles .about-link:focus {
-  border-color: var(--site-accent);
-  color: var(--site-accent);
-  background: #f4f9f9;
+  color: var(--site-ink);
+  background: #fff;
+  box-shadow: 3px 3px 0 var(--site-orange);
+  transform: translate(-1px, -1px) rotate(-1deg);
+}
+
+#education,
+#selected-posts {
+  width: min(1180px, calc(100% - 3rem));
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#education {
+  position: relative;
+  margin-bottom: 2.75rem;
+  padding: 1.8rem 2rem 1.25rem;
+  overflow: hidden;
+  border: 1.7px solid var(--site-ink);
+  border-radius: 17px 25px 16px 28px;
+  background: #f8ead4;
+}
+
+#education h2,
+#selected-posts h2 {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  color: var(--site-ink);
+  font-family: "Kalam", "Bradley Hand", cursive;
+  font-size: clamp(1.9rem, 3vw, 2.45rem);
+  font-weight: 700;
+  transform: rotate(-0.8deg);
+}
+
+#selected-posts h2::after {
+  display: block;
+  width: 88%;
+  height: 0.4rem;
+  margin-top: -0.25rem;
+  border-top: 3px solid var(--site-orange);
+  border-radius: 50%;
+  content: "";
+  transform: rotate(-1deg);
 }
 
 #education ul {
-  margin-bottom: 1.75rem;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 0.35rem;
+  padding-right: 7rem;
+  padding-left: 1.25rem;
   font-size: 0.95rem;
-  line-height: 1.55;
+  line-height: 1.72;
+}
+
+#education .education-mascot {
+  position: absolute;
+  z-index: 1;
+  right: 1.35rem;
+  bottom: 0.3rem;
+  width: 6.5rem;
+  height: auto;
+  mix-blend-mode: multiply;
+  opacity: 0.88;
+  transform: rotate(2deg);
+}
+
+#selected-posts > p:first-of-type {
+  margin-bottom: 1.35rem;
+  color: #4a6073;
 }
 
 .quarto-listing-container-grid .card {
-  border-color: var(--site-border);
-  box-shadow: none;
-  transition: transform 150ms ease, border-color 150ms ease;
+  overflow: hidden;
+  border: 1.7px solid var(--site-ink);
+  border-radius: 18px 11px 20px 13px;
+  background: #fff;
+  box-shadow: 5px 6px 0 rgba(23, 50, 77, 0.13);
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+
+.quarto-listing-container-grid .g-col-1:nth-child(3n + 1) .card-body {
+  background: #f2cb83;
+}
+
+.quarto-listing-container-grid .g-col-1:nth-child(3n + 2) .card-body {
+  background: #b8dbe3;
+}
+
+.quarto-listing-container-grid .g-col-1:nth-child(3n) .card-body {
+  background: #efaa82;
+}
+
+.quarto-listing-container-grid .card-title {
+  color: var(--site-ink);
+  font-family: "Kalam", "Bradley Hand", cursive;
+  font-size: 1.16rem;
+  font-weight: 700;
+  line-height: 1.22;
+}
+
+.quarto-listing-container-grid .listing-date {
+  color: rgba(23, 50, 77, 0.78);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .quarto-listing-container-grid .quarto-grid-link:hover .card,
 .quarto-listing-container-grid .quarto-grid-link:focus .card {
-  transform: translateY(-2px);
-  border-color: rgba(23, 107, 115, 0.55);
+  box-shadow: 8px 9px 0 rgba(217, 120, 77, 0.44);
+  transform: translate(-2px, -3px) rotate(-0.4deg);
 }
 
 .quarto-listing-container-grid .quarto-grid-link:hover,
@@ -80,16 +315,79 @@ div.quarto-about-trestles {
   object-position: center;
 }
 
+#selected-posts > p[align="right"] a {
+  display: inline-block;
+  margin-top: 0.8rem;
+  padding: 0.52rem 0.9rem 0.45rem;
+  border: 1.5px solid var(--site-ink);
+  border-radius: 13px 9px 14px 8px;
+  color: var(--site-ink);
+  background: var(--site-sky);
+  font-family: "Kalam", "Bradley Hand", cursive;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+#selected-posts > p[align="right"] a:hover,
+#selected-posts > p[align="right"] a:focus {
+  background: var(--site-gold);
+  transform: rotate(-1deg);
+}
+
 .project-meta {
   margin-bottom: 1.25rem;
   padding: 0.9rem 1rem;
-  border-left: 4px solid var(--site-accent);
-  background: #f5f8f9;
+  border: 1.4px solid var(--site-ink);
+  border-left: 5px solid var(--site-accent);
+  border-radius: 5px 14px 8px 5px;
+  background: #f1f7f6;
+}
+
+.nav-footer {
+  margin-top: 4rem;
+  border-top: 1.5px solid var(--site-ink);
+  color: var(--site-ink);
+  background: #e99a62;
+}
+
+.nav-footer a {
+  color: var(--site-ink);
+  font-weight: 700;
 }
 
 @media (max-width: 991.98px) {
   div.quarto-about-trestles {
-    padding-top: 1rem !important;
+    width: min(720px, calc(100vw - 2rem));
+    max-width: calc(100vw - 2rem);
+    margin-top: 1.5rem;
+    padding: 2rem 1.4rem 1.8rem !important;
+    box-shadow: 6px 7px 0 rgba(217, 120, 77, 0.64);
+  }
+
+  div.quarto-about-trestles .about-entity,
+  div.quarto-about-trestles .about-contents {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  div.quarto-about-trestles .about-entity {
+    padding-right: 0;
+  }
+
+  div.quarto-about-trestles .about-contents {
+    padding-left: 0;
+    border-left: 0;
+  }
+
+  div.quarto-about-trestles::after {
+    width: 18rem;
+    height: 9rem;
+  }
+
+  .quarto-about-trestles .about-image {
+    box-shadow: 6px 6px 0 var(--site-gold);
+    transform: none;
   }
 
   div.quarto-about-trestles .about-entity .about-links {
@@ -107,4 +405,47 @@ div.quarto-about-trestles {
     padding: 0.35rem 0.55rem;
     font-size: 0.82rem;
   }
+
+  #education,
+  #selected-posts {
+    width: min(720px, calc(100vw - 2rem));
+    max-width: calc(100vw - 2rem);
+  }
+
+}
+
+@media (max-width: 575.98px) {
+  .navbar {
+    min-height: 3.8rem;
+  }
+
+  div.quarto-about-trestles {
+    border-radius: 22px 14px 24px 13px;
+  }
+
+  .quarto-about-trestles h1.title {
+    font-size: clamp(2rem, 10vw, 2.65rem);
+  }
+
+  div.quarto-about-trestles::after {
+    display: none;
+  }
+
+  .quarto-about-trestles .about-contents p:last-child {
+    max-width: 100%;
+    font-size: 0.95rem;
+  }
+
+  #education {
+    padding: 1.35rem 1.15rem 1rem;
+  }
+
+  #education ul {
+    padding-right: 0;
+  }
+
+  #education .education-mascot {
+    display: none;
+  }
+
 }
